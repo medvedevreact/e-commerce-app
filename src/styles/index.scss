@@ -1,0 +1,23 @@
+@import "./themes/dark.scss";
+@import "./themes/light.scss";
+@import "./reset.scss";
+@import "./variables/global.scss";
+
+.app {
+  font: var(--font-m);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.content {
+  background-color: var(--bg-color);
+  flex: 1; // Это заставляет этот элемент заполнять все доступное пространство, отталкивая footer вниз
+  padding-top: 25px;
+}

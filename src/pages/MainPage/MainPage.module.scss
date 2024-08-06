@@ -1,0 +1,48 @@
+.mainPage {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  .title {
+    color: var(--text-color);
+  }
+  .desc {
+    max-width: 1280px;
+    margin-bottom: 10px;
+    color: var(--text-color);
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .technologies {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    .item {
+      background: #1f2937;
+      color: white;
+      padding: 8px;
+      cursor: pointer;
+    }
+  }
+  @media (max-width: 1280px) {
+    .desc {
+      padding: 0 15px;
+    }
+  }
+  @media (max-width: 800px) {
+    .desc {
+      text-align: center;
+    }
+
+    .technologies {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); // Два столбца
+      gap: 10px;
+
+      .item {
+        text-align: center;
+      }
+    }
+  }
+}

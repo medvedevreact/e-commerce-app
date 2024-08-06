@@ -1,0 +1,56 @@
+.productPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+
+  &__title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  &__price {
+    font-size: 20px;
+    color: darkgreen;
+    margin-bottom: 20px;
+  }
+
+  &__description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+    max-width: 600px;
+    text-align: center;
+  }
+
+  &__imageContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 1280px) {
+    &__imageContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  &__image {
+    width: auto; // Автоматическая ширина для сохранения пропорций
+    max-width: 100%; // Максимальная ширина ограничена контейнером
+    max-height: 300px; // Максимальная высота изображения
+    height: auto; // Автоматическая высота для сохранения пропорций
+    margin: 0 10px;
+    border-radius: 10px;
+    object-fit: contain; // Обеспечивает полное отображение изображения
+  }
+}
+.btn {
+  padding: 8px;
+  border-radius: 15px;
+  cursor: pointer;
+  border: none;
+}

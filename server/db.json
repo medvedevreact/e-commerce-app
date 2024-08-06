@@ -1,0 +1,360 @@
+{
+  "products": [
+    {
+      "id": 8,
+      "title": "Luxury furniture",
+      "price": 19999,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": "furniture",
+      "images": [
+        "https://www.divano.ru/upload/resize_cache/iblock/96a/720_720_140cd750bba9870f18aada2478b24840a/wylqgwuw0zqx063rrmute8rzkjf3j3pq.webp",
+        "https://www.divano.ru/upload/resize_cache/iblock/c66/720_720_140cd750bba9870f18aada2478b24840a/wppkl8pg81yg7w0v3791pt4zy20q3fsc.webp",
+        "https://www.divano.ru/upload/iblock/cf8/0g3dfumr6irtrsmchri3htrlgjiresdu.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "MackBook 2019 Pro 16\"",
+      "price": 1000000,
+      "description": "Крутейший ноут для крутейших программистов",
+      "category": "electronics",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/5220030/img_id1806008977283394021.jpeg/450x600",
+        "https://avatars.mds.yandex.net/get-mpic/1081556/img_id3154731664449142743.jpeg/450x600",
+        "https://avatars.mds.yandex.net/get-mpic/4034372/img_id1610581191205435959.jpeg/450x600"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "DC SHOES",
+      "price": 962,
+      "description": "Идеальны для скейтбординга и повседневной носки, эти кроссовки обеспечивают комфорт и поддержку на каждом шагу",
+      "category": "others",
+      "images": [
+        "https://i1.proimagescdn.ru/images/bimages/1397/190541001720180497-1397707_2.jpg",
+        "https://i1.proimagescdn.ru/images/bimages/1397/190541001720180497-1397707_1.jpg",
+        "https://i1.proimagescdn.ru/images/bimages/1397/190541001720180497-1397707_4.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Iphone 15 Pro",
+      "price": 515,
+      "description": "Этот телефон оборудован передовым процессором, улучшенной камерой для профессиональной фотографии и видеосъемки, а также прочным корпусом с водонепроницаемыми свойствами",
+      "category": "electronics",
+      "images": [
+        "https://132.p.giex.ru/upload/iblock/7d7/yjumbuxl7plqvqy3axpz2ni7sfvuupti.png",
+        "https://132.p.giex.ru/upload/iblock/138/psvnoiskh7ylfa8kktublv0scj2bvmsq.png",
+        "https://132.p.giex.ru/upload/iblock/dd2/gh8nkxc8isy0i9fiz9mtyfoz8eb2lnj7.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Handcrafted Fresh Tuna",
+      "price": 689,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "category": "shoes",
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=7668",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=9409",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=820"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Ergonomic Fresh Gloves",
+      "price": 719,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=5521",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=8939",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1894"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Sleek Steel Ball",
+      "price": 783,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "category": "electronics",
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=5183",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=8834",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=3736"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Handmade Concrete Pizza",
+      "price": 505,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "category": "others",
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=3718",
+        "https://api.lorem.space/image?w=640&h=480&r=2437",
+        "https://api.lorem.space/image?w=640&h=480&r=4288"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Tasty Steel Chicken",
+      "price": 262,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=9938",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=102",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1779"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Incredible Wooden Towels",
+      "price": 760,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "category": "others",
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=7962",
+        "https://api.lorem.space/image?w=640&h=480&r=9919",
+        "https://api.lorem.space/image?w=640&h=480&r=3572"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Handcrafted Fresh Bacon",
+      "price": 172,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=9894",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=2171",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=9816"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Tasty Plastic Chips",
+      "price": 358,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": "others",
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=5666",
+        "https://api.lorem.space/image?w=640&h=480&r=3282",
+        "https://api.lorem.space/image?w=640&h=480&r=3503"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Incredible Granite Shirt",
+      "price": 767,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "category": "clothes",
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=8098",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=4792",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=1155"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Gorgeous Metal Chips",
+      "price": 970,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=7170",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=994",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=3389"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Ergonomic Rubber Shirt",
+      "price": 566,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": "clothes",
+      "images": [
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=2500",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=6476",
+        "https://api.lorem.space/image/fashion?w=640&h=480&r=3794"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Small Plastic Keyboard",
+      "price": 889,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "category": "shoes",
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=1139",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=2866",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=745"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Small Rubber Shoes",
+      "price": 541,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "category": "shoes",
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=3919",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=7748",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=7203"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Small Steel Cheese",
+      "price": 114,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=9266",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1166",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=5263"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Gorgeous Granite Shoes",
+      "price": 732,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "category": "others",
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=6190",
+        "https://api.lorem.space/image?w=640&h=480&r=6792",
+        "https://api.lorem.space/image?w=640&h=480&r=1142"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Unbranded Steel Table",
+      "price": 714,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "category": "shoes",
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=5875",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=5792",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=9177"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Generic Granite Soap",
+      "price": 535,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "category": "electronics",
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=350",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=9978",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=2389"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Generic Plastic Fish",
+      "price": 186,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "category": "shoes",
+      "images": [
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=1177",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=1098",
+        "https://api.lorem.space/image/shoes?w=640&h=480&r=4986"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Sleek Metal Car",
+      "price": 280,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": "electronics",
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=5848",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6986",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=4003"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Handcrafted Steel Computer",
+      "price": 362,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "category": "furniture",
+      "images": [
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=1717",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=918",
+        "https://api.lorem.space/image/furniture?w=640&h=480&r=8382"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Rustic Rubber Soap",
+      "price": 542,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "category": "electronics",
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=6022",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1315",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1032"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Tasty Cotton Salad",
+      "price": 921,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "category": "electronics",
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1033",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=1636",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=2395"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "vanya@mail.ru",
+      "password": "$2a$10$2QL2eI9y48qTn6Cc1FSBxuexodZYznY1/P90g/Gcfom2.m0vXL2GS",
+      "login": "vanya",
+      "id": 1
+    },
+    {
+      "email": "q2212@mail.ru",
+      "password": "$2a$10$WI9Gg46McpF11eHRwCAtsOUxVj6rGn2NAhWk3Y.JUnTzF1A0PYCf.",
+      "login": "leha",
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "date": "31.07.2024 16:46:43",
+      "items": [
+        {
+          "title": "DC SHOES",
+          "price": 962,
+          "image": "https://i1.proimagescdn.ru/images/bimages/1397/190541001720180497-1397707_2.jpg",
+          "quantity": 5
+        }
+      ],
+      "totalPrice": 4810,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "date": "06.08.2024 16:13:05",
+      "items": [
+        {
+          "title": "DC SHOES",
+          "price": 962,
+          "image": "https://i1.proimagescdn.ru/images/bimages/1397/190541001720180497-1397707_2.jpg",
+          "quantity": 5
+        }
+      ],
+      "totalPrice": 4810,
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}

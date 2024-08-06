@@ -1,0 +1,50 @@
+.form {
+  border: 1px solid var(--text-color);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.loginPage {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  color: var(--text-color);
+  margin-bottom: 10px;
+}
+.link {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+
+  &:hover {
+    color: darkblue;
+  }
+}
+.text {
+  color: var(--text-color);
+}
+@media (max-width: 600px) {
+  .text {
+    font-size: 12px;
+  }
+}
+
+.button {
+  cursor: pointer;
+  background: #dcfce7;
+  border: none;
+  border-radius: 15px;
+  padding: 8px;
+}
+.input {
+  padding-left: 12px !important;
+  border: none;
+  border-radius: 15px;
+  padding: 8px;
+  background: #f1f5f9;
+  outline: none;
+}

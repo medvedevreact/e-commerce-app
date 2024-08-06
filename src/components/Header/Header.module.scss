@@ -1,0 +1,90 @@
+.header {
+  height: var(--header-height);
+  background: var(--inverted-bg-color);
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+
+  .logo {
+    cursor: pointer;
+  }
+
+  .links {
+    display: flex;
+    gap: 75px;
+    list-style-type: none;
+    @media (max-width: 900px) {
+      gap: 25px;
+    }
+    @media (max-width: 800px) {
+      display: none;
+    }
+  }
+  .btns {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+    align-items: center;
+    @media (max-width: 800px) {
+      display: none;
+    }
+  }
+
+  .burgerMenuIcon {
+    display: none;
+    cursor: pointer;
+    @media (max-width: 800px) {
+      display: block;
+    }
+  }
+
+  .link {
+    cursor: pointer;
+  }
+
+  .btn {
+    padding: 7px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+    background: #dcfce7;
+  }
+
+  .cartIcon,
+  .icon {
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+}
+.mobileMenu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: var(--header-height);
+  right: 0;
+  background: var(--inverted-bg-color);
+  width: 100%;
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+  @media (min-width: 801px) {
+    display: none;
+  }
+}
+
+.mobileMenu.open {
+  max-height: 383px; // Регулируйте в зависимости от количества элементов
+  opacity: 1;
+  z-index: 9999;
+}
+
+.mobileLink {
+  padding: 15px 20px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
