@@ -12,5 +12,4 @@ SCSS: Flexible and scalable component styling.
 Webpack: Optimized build process for performance and minimal file sizes.
 
 User Experience: Theme and language switching for broad accessibility.
-Quality Assurance: Comprehensive component testing ensures code quality and reliability.
 This project provides users with a stable and enjoyable shopping experience.
